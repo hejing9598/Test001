@@ -10,7 +10,7 @@ import java.util.Arrays;
  * 快速排序采用分治法的思想：首先设置一个轴值pivot，然后以这个轴值为划分基准将待排序序列分成比pivot大和比pivot小的两部分，
  * 接下来对划分完的子序列进行快排直到子序列为一个元素为止。
  */
-public class Quick {
+public class QuickSort {
 
     public static void main(String[] args) {
 
